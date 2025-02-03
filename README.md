@@ -80,7 +80,15 @@ conda activate myenv
 To deactivate the virtual environment, enter the command 
 
 ```
+
+
+
 conda deactivate myenv
 ```
 
 That's it! You should now have a virtual environment set up and ready to use.
+
+
+## Example 4: How to create and activate a virtual environment in Python on Google COLAB
+Click on the below link: 
+[https://colab.research.google.com/drive/1H2zgabuBjHno7f1fzYuw5NfG8nuF_y9L?usp=sharing](https://colab.research.google.com/drive/1H2zgabuBjHno7f1fzYuw5NfG8nuF_y9L?usp=sharing)
