@@ -39,8 +39,18 @@ You can now install any required packages or dependencies within this virtual en
 ```
 pip install pandas
 ```
-# ""For Anaconda Users""
-## Example 2: How to create and activate a virtual environment in Python using conda module
+# **For Jupyter Notebook Users**
+## Example 2: How to create and activate Python Virtual Environments in Jupyter NoteBook
+Click on the link -->
+([https://github.com/haseeb1988/virtualenv_Jupyter.git](https://github.com/haseeb1988/virtualenv_Jupyter.git))
+
+# **For Google COLAB Users**
+## **Example 3** : How to create and activate Python virtual environment in Google COLAB
+Click on the link: --> 
+[https://colab.research.google.com/drive/1H2zgabuBjHno7f1fzYuw5NfG8nuF_y9L?usp=sharing](https://colab.research.google.com/drive/1H2zgabuBjHno7f1fzYuw5NfG8nuF_y9L?usp=sharing)
+
+# **For Anaconda Users**
+## Example 4: How to create and activate Python virtual environment using conda module
 
 Open a command prompt or terminal window.
 
@@ -60,15 +70,11 @@ conda activate myenv
 To deactivate the virtual environment, enter the command 
 
 ```
-
-
-
 conda deactivate myenv
 ```
 
 That's it! You should now have a virtual environment set up and ready to use.
 
 
-## Example 4: How to create and activate a virtual environment in Python on Google COLAB
-Click on the below link: 
-[https://colab.research.google.com/drive/1H2zgabuBjHno7f1fzYuw5NfG8nuF_y9L?usp=sharing](https://colab.research.google.com/drive/1H2zgabuBjHno7f1fzYuw5NfG8nuF_y9L?usp=sharing)
+
+
