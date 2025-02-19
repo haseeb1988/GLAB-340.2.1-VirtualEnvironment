@@ -39,7 +39,7 @@ You can now install any required packages or dependencies within this virtual en
 ```
 pip install pandas
 ```
-
+# ""For Anaconda Users""
 ## Example 2: How to create and activate a virtual environment in Python using conda module
 
 Open a command prompt or terminal window.
