@@ -40,27 +40,7 @@ You can now install any required packages or dependencies within this virtual en
 pip install pandas
 ```
 
-## Example 2: How to create and activate a virtual environment in Python using virtualenv module
-
-Open a command prompt or terminal window.
-
-Navigate to the directory where you want to create the virtual environment.
-
-Enter the command virtualenv myenv, replacing "myenv" with the name you want to give your virtual environment.
-
-Activate the virtual environment by entering the command 
-
-```
-source myenv/bin/activate
-```
-on Mac/Linux or 
-
-```
-myenv\Scripts\activate.bat
-```
-on Windows.
-
-## Example 3: How to create and activate a virtual environment in Python using conda module
+## Example 2: How to create and activate a virtual environment in Python using conda module
 
 Open a command prompt or terminal window.
 
